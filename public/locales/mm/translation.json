@@ -1,0 +1,7 @@
+{
+  "greeting": "ကမ္ဘာကြီး မင်္ဂလာပါ။",
+  "description": {
+    "part1": "ဒီစာကို react-i18next မှ useTranslation hook နဲ့ ဖော်ပြနေတာဖြစ်ပါတယ်။",
+    "part2": "ဒီစာကို react-i18next မှ Trans component နဲ့ ဖော်ပြနေတာဖြစ်ပါတယ်။"
+  }
+}

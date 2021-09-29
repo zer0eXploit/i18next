@@ -1,0 +1,7 @@
+{
+  "greeting": "こんにちは世界!",
+  "description": {
+    "part1": "このテキストは react-i18next の useTranslation hook で 表示されます",
+    "part2": "このテキストは react-i18next の Trans component で 表示されます"
+  }
+}
